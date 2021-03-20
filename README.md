@@ -1,5 +1,7 @@
 # FurryDetector
 
+[![code style: black](https://img.shields.io/badge/code_style-black-000000.svg?style=flat-square)](https://github.com/psf/black)
+
 This is the Furry Detector program as seen on my [YouTube](https://youtube.com/c/FurryMemes)!
 
 It uses the Twitter API, TensorFlow, and Tkinter to make an all-in-one furry detecting program.
