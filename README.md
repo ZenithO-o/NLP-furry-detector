@@ -10,12 +10,12 @@ In the file `twitter_key.json` you must put your Twitter API key information in 
 
 Read Twitter's tutorial [here](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api) for getting an API key.
 
-You can then run `main.py` and use the appropriate input fields in the GUI to select the Twitter user, 
+You can then run `main.py` and use the appropriate input fields in the GUI to select the Twitter user,
 \# of tweets, and then calculate using the ML model!
 
 **Please be sure to read `requirements.txt` for the modules used**
 
-## Other 
+## Other
 
 Contributions are welcome!
 
