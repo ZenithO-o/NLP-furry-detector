@@ -7,13 +7,6 @@ python = "^3.8"
 homepage = "https://github.com/ZenithO-o/FurryDetector"
 repository = "https://github.com/ZenithO-o/FurryDetector"
 
-[dependencies]
-requests = "2.22.0"
-tensorflow = "2.2.0rc3"
-tweepy = "3.8.0"
-numpy = "1.18.2"
-Pillow = "8.1.2"
-
 [tool.black]
 line-length = 88
 target_version = ["py36", "py37", "py38"]
