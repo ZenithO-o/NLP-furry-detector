@@ -1,4 +1,4 @@
-name: Lint
+name: Code Style
 
 on: [push, pull_request]
 
