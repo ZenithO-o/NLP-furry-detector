@@ -147,6 +147,9 @@ Thumbs.db #thumbnail cache on Windows
 # profiling data
 .prof
 
+# other
+Twitterkey.json
+test.py
 
 ### vscode ###
 .vscode/*
